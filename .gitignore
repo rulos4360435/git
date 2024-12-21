@@ -1,0 +1,4 @@
+#vamos a ignorar esto
+*.txt
+*.json
+!readme.txt
